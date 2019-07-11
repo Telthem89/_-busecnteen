@@ -1,0 +1,10 @@
+
+.bg-primary {
+    background-color: #0a498c!important;
+}
+
+.btn-success {
+    color: #fff;
+    background-color: #0d2744 !important;
+    /*border-color: #dee2e6;*/
+}
